@@ -23,7 +23,7 @@ It would appear that protecting the page with `PAGE_NOACCESS` containing our met
 ![AV Scan](https://github.com/Bl4ckM1rror/ZombieThread/blob/main/PoC.png?raw=true)
 
 # Important
-Remember, the code looks for an instance of explorer to inject into, if you want inject into another process, you must change it in program.cs code
+Remember, the code looks for an instance of explorer to inject into, if you want inject into another process, you must change it in program.cs code.
 
 # AV Scan Results
 

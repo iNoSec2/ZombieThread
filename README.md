@@ -27,4 +27,6 @@ Remember, the code looks for an instance of explorer to inject into, if you want
 
 # AV Scan Results
 
+The binary was scanned using [antiscan.me](https://antiscan.me/scan/new/result?id=JkbJGQBeJIw6) on 20/06/2022.
+
 ![AV Scan](https://github.com/Bl4ckM1rror/ZombieThread/blob/main/antiscan.png?raw=true)

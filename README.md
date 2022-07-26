@@ -1,4 +1,4 @@
-# ZombieThread
+# :skull: ZombieThread :zap:
 Another meterpreter injection technique using C# that attempts to bypass WD.
 
 # Introduction

@@ -1,6 +1,6 @@
 # :skull: ZombieThread :warning:
 <p align="center">
-  <img src="https://github.com/Bl4ckM1rror/ZombieThread/blob/main/logo.png"> <br> 
+  <img src="https://github.com/Bl4ckM1rror/ZombieThread/blob/main/logo.jpg"> <br> 
 </p>
 
 # Introduction

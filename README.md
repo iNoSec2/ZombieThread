@@ -1,9 +1,14 @@
 # :skull: ZombieThread :warning:
-Another meterpreter injection technique using C# that attempts to bypass WD.
+<p align="center">
+  <img src="https://github.com/Bl4ckM1rror/ZombieThread/blob/main/logo.png"> <br> 
+</p>
 
 # Introduction
+Another meterpreter injection technique using C# that attempts to bypass WD.
+
 The idea behind this project was to try to figure out how inject shellcode into a remote process and go under the Windows Defender's radar.
 
+# How it works
 The technique is quite simple:
 
 - Open a remote process using `OpenProcess`.
